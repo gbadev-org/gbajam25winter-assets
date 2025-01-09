@@ -18,5 +18,6 @@ Scaled to fit on the GBA screen.
 ![](assets/GBAJam25Winter_Banner.png)
 
 ## Credits
-- Logos and banners made by GBA Jam 2024 Organizers, licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).
-- "JAM 2024" logo text font — Over Drive by [Graphic Arts Unit](https://www.graphicartsunit.com/gaupra/index.html).
+- Logos and banners made by GBA Jam 2024/2025 Organizers, licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).
+- "JAM" logo text font — Over Drive by [Graphic Arts Unit](https://www.graphicartsunit.com/gaupra/index.html).
+- "WINTER" logo text font — [Rubik](https://fonts.google.com/specimen/Rubik/about) by Hubert and Fischer.
